@@ -1,4 +1,3 @@
-# fundraising-lakehouse
 
 # Fundraising Lakehouse (Azure/Fabric) — Synthetic Data → ETL → Power BI
 
